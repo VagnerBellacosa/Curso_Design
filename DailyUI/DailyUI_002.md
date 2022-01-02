@@ -2,12 +2,13 @@
 
 | ![img](Images/IconDailyUI.png) |
 | :----------------------------------------------------------: |
-| #Challenge #1                                                |
-| **Sign Up**                                           <br>   |
+| **Credit Card Checkout**                                     |
+| -----------------------------------------------------------: |
+| **Design Hint**                                              |
 |                                                              |
-| <br> **Design Hint**                                  <br>   |
-| Create a sign up page, modal, form, or app screen related to signing up for something.  <br>  |
-| It could be for a volunteer event, contest registration, a giveaway, or anything you can image.  <br> |
+| Design a credit card checkout form or page. <br>             |
+| Don't forget the important elements such as the numbers, dates, security numbers, etc.  | 
+| |
 | <br>                                                       |
 | Share your design on Dribbble or Twitter with    <br>      |
 | |
