@@ -1,14 +1,15 @@
-# DayliUI - Challenge #2
+# DayliUI - Challenge #3
 
 | ![img](Images/IconDailyUI.png) |
 | :----------------------------------------------------------: |
-| #Challenge #2                                                |
-| **Credit Card Checkout**                                     |
-| -----------------------------------------------------------: |
-| **Design Hint**                                              |
+| #Challenge #3                                                |
+| **Landing Page**                                             |
+| ------------------------------------------------------------ |
+| **Design Hint**...  | 
 |                                                              |
-| Design a credit card checkout form or page. <br>             |
-| Don't forget the important elements such as the numbers, dates, security numbers, etc.  | 
+| What's the main focus? Is it for a book, an album, a mobile app, a product? |
+| Consider important landing page elements (call-to-actions, clarity, etc.) |
+ 
 | |
 | <br>                                                       |
 | Share your design on Dribbble or Twitter with    <br>      |
@@ -44,3 +45,4 @@
 | [Add us to your address book](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Fvcard%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35&sa=D&sntz=1&usg=AFQjCNGrk8FhQJTaY3txBssTEk1CrxPRjw)  |
 | Want to change how you receive our emails? You can [update your preferences](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Fprofile%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35%26e%3D96edc24e23%26c%3De9ddced28f&sa=D&sntz=1&usg=AFQjCNHSaf-V1Q43WbxxIjyACEgJ3acI8Q) or if you'd like to completely unsubscribe from all Daily UI emails including Prompts[, ](https://www.google.com/maps/search/3331+Sandy+Way+South+Lake+Tahoe+,++CA?entry=gmail&source=g) |
 | Surprise Rewards, and our awesome Weekly Rad, simply [unsubscribe](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Funsubscribe%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35%26e%3D96edc24e23%26c%3De9ddced28f&sa=D&sntz=1&usg=AFQjCNEThRKHAccm7rOTYUAK7EP4f9cqkA) |
+
