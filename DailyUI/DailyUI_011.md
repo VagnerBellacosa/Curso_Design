@@ -1,13 +1,13 @@
-# DayliUI - Challenge #10
+# DayliUI - Challenge #11
 
 | ![img](Images/IconDailyUI.png) |
 | :----------------------------------------------------------: |
-| Challenge #10                                                 |
-| **Social Share**                                             |
+| Challenge #11                                                |
+| **Flash Message**                                            |
 | ------------------------------------------------------------ |
-| **Design Hint**...                                           | 
-| Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing. |
-
+| **Design Hint**...                                           |
+| Design a Flash Message with both the outcome for an error and success. |
+| Is it for a sign up form? A download/upload message? (As always, it's up to you!) |
 | |
 | <br>                                                       |
 | Share your design on Dribbble or Twitter with    <br>      |
@@ -47,6 +47,21 @@
 
 
 
+
+  
+
+
+
+**Today's Free Resource 🌟** 
+
+Proudly Sponsored by **Adobe** 
+The **Smartwatch UI Kit**: perfect for building a smartwatch UI or prototype. With 60 customizable screens, 20+ components, 30+ icons, and 6 prototype flows, you can bring anything to life!
+
+[![img](https://ci3.googleusercontent.com/proxy/aT8ckwrLC4y_q1rYvN66tkkadEtrcf4jf8L8rDkczMK_MUeAZhwLli6VeDGCC6ydY-ELR-O2JDfqaoiT4W87b745K-14WEdjbvQVb-xEcsFLJGgmUboAnDh_Ck1qALZJOuwF4JcqSJZ0jZx34E5D3biTY6oxwz5HcyQ=s0-d-e1-ft#https://gallery.mailchimp.com/4f673bd669d38ddb22ebef774/images/713b6d6c-ea5a-4e6f-acd0-4166e0486eb6.png)](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3Db5c4236b4f%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHDqjjLTLPtGfOX3phfAwbLWj4bEg)
+
+Smartwatch UI Kit design by Marcelo Silva for Adobe XD
+
+[Download for FREE](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3Db5c4236b4f%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHDqjjLTLPtGfOX3phfAwbLWj4bEg)
 
 
 
