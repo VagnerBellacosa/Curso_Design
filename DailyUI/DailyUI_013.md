@@ -1,20 +1,15 @@
-# DayliUI - Challenge #12
+# DayliUI - Challenge #13
 
 | ![img](Images/IconDailyUI.png) |
 | :----------------------------------------------------------: |
-| Challenge #12                                                |
-| **E-Commerce Shop (Single Item)**                            |
+| Challenge #13                                                |
+| **Direct Messaging**                                         |
 | ------------------------------------------------------------ |
-| **Hint:**...                                                 |
-| Design an e-commerce shop.                                   |
-| Is it simple for a local business or a large online retailer? |
-| Is it for clothing, shoes, handmade soap, or something else?  |
-| Consider the brand, the products offered, product views, product options, desired actions (conversions, product views, etc.) and the users! |
-|(As always, it's up to you!) Don't forget to share on *[Dribbble](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3Df08033be8e%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHnGxvUoG0GsxPyPUPOsFjs1x-YPw) and/or [Twitter ](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D652d88f2b5%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNFHNCVnFlLyIUgNEkcD8JR3fYE_eQ)with [#dailyui ](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0dcf7dc3e4%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHjyZDkR7lGyIiKaV7vyC7vgkbfSQ)when you're done.*|
-||
-|*Oh, and **check out something neat** from our sponsor!***⇣⇣⇣⇣** |
-| |
-[![img](https://ci6.googleusercontent.com/proxy/qjSGID5qv-BGuNBmb
+|*Hint:*...                                                    |
+| Design a Direct Messaging app, profile, or chatbox.     |
+| Consider the parties involved in the messages, images, placement, and context of the messages. |
+| Are the messages for social purposes? Customer support?  |
+|(As always, it's up to you!) Don't forget to share on [Dribbble](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D4f2aa391a8%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNGpW5e-m6fZrAqlJbol1W5b3kSM-Q) and/or [Twitter ](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D2a23f92308%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHV7NA4nHqAUY9Iw3J-hPqhfbVlPA)with [#dailyui ](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Ftrack%2Fclick%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D6da5178b53%26e%3D96edc24e23&sa=D&sntz=1&usg=AFQjCNHAt0sTlIgZL3N9nhsq8VQihWgBLA)when you're done.*|
 | |
 | <br>                                                       |
 | Share your design on Dribbble or Twitter with    <br>      |
@@ -50,6 +45,8 @@
 | [Add us to your address book](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Fvcard%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35&sa=D&sntz=1&usg=AFQjCNGrk8FhQJTaY3txBssTEk1CrxPRjw)  |
 | Want to change how you receive our emails? You can [update your preferences](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Fprofile%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35%26e%3D96edc24e23%26c%3De9ddced28f&sa=D&sntz=1&usg=AFQjCNHSaf-V1Q43WbxxIjyACEgJ3acI8Q) or if you'd like to completely unsubscribe from all Daily UI emails including Prompts[, ](https://www.google.com/maps/search/3331+Sandy+Way+South+Lake+Tahoe+,++CA?entry=gmail&source=g) |
 | Surprise Rewards, and our awesome Weekly Rad, simply [unsubscribe](https://www.google.com/url?q=https%3A%2F%2Fdailyui.us11.list-manage.com%2Funsubscribe%3Fu%3D4f673bd669d38ddb22ebef774%26id%3D0ac3a8df35%26e%3D96edc24e23%26c%3De9ddced28f&sa=D&sntz=1&usg=AFQjCNEThRKHAccm7rOTYUAK7EP4f9cqkA) |
+
+
 
 
 
